@@ -1,0 +1,721 @@
+Message-ID: <1719638244.10634.1484190555138.JavaMail.root@node8>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10633_1256495885.1484190555138"
+
+------=_Part_10633_1256495885.1484190555138
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>HttpSource =E5=AD=98=E5=85=A5=E6=9C=AC=E5=9C=B0</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>HttpSource =E5=AD=98=E5=85=A5=E6=9C=AC=E5=9C=B0</h1>
+    <div class=3D"Section1">
+        <h3 id=3D"HttpSource=E5=AD=98=E5=85=A5=E6=9C=AC=E5=9C=B0-HttpSource=
+-&gt;FileRollSink"><span style=3D"color: rgb(68,68,68);">HttpSource -&gt;&n=
+bsp;File Roll Sink</span></h3>
+<p><span style=3D"color: rgb(68,68,68);">&nbsp;&nbsp;<span style=3D"color: =
+rgb(0,0,0);">FileRollSink =E5=8F=AF=E4=BB=A5=E5=B0=86source=E4=B8=AD=E7=9A=
+=84=E6=95=B0=E6=8D=AE=E5=AD=98=E5=A6=82=E6=9C=AC=E5=9C=B0=EF=BC=8C=E4=BD=86=
+FileRollSink</span><span style=3D"color: rgb(0,0,0);">=E6=96=87=E4=BB=B6=E5=
+=90=8D=E4=B8=8D=E8=83=BD=E8=87=AA=E5=AE=9A=E4=B9=89=EF=BC=8C=E8=80=8C=E4=B8=
+=94=E4=B8=8D=E8=83=BD=E5=AE=9A=E6=97=B6=E6=BB=9A=E5=8A=A8=E6=96=87=E4=BB=B6=
+=EF=BC=8C=E5=8F=AA=E8=83=BD=E6=8C=89=E6=97=B6=E9=97=B4=E9=97=B4=E9=9A=94=E6=
+=BB=9A=E5=8A=A8=EF=BC=8C=E5=8F=AF=E4=BB=A5=E8=87=AA=E5=B7=B1=E5=AE=9A=E4=B9=
+=89sink=EF=BC=8C=E6=9D=A5=E5=81=9A=E5=AE=9A=E6=97=B6=E5=86=99=E6=96=87=E4=
+=BB=B6=EF=BC=8C=E5=8F=82=E8=80=83=E4=BA=86&nbsp;<a href=3D"http://blog.csdn=
+.net/tswisdom/article/details/41483471" class=3D"external-link" rel=3D"nofo=
+llow">http://blog.csdn.net/tswisdom/article/details/41483471</a>&nbsp;=E8=
+=BF=99=E7=AF=87=E6=96=87=E7=AB=A0=E3=80=82</span></span></p>
+<p><span style=3D"color: rgb(68,68,68);"><span style=3D"color: rgb(0,0,0);"=
+>&nbsp; =E6=9C=AC=E6=96=87=E5=88=A9=E7=94=A8=E6=96=87=E4=BB=B6Sink=EF=BC=8C=
+=E5=AE=9E=E7=8E=B0=E4=BA=86=E6=8C=89=E5=9B=BA=E5=AE=9A=E6=A0=BC=E5=BC=8F=E7=
+=9B=AE=E5=BD=95=E8=BE=93=E5=87=BA=EF=BC=8C<span>=E6=94=B6=E9=9B=86=E5=AE=8C=
+=E6=88=90=E7=BB=93=E6=9E=9C=E5=AD=98=E6=94=BE=E9=9C=80=E8=A6=81=E6=8C=89=E5=
+=A4=A9=E7=94=9F=E6=88=90=E6=96=87=E4=BB=B6=E5=A4=B9=EF=BC=8C=E6=8C=89=E6=AF=
+=8F5=E5=88=86=E9=92=9F=E7=94=9F=E6=88=90=E6=96=87=E4=BB=B6=EF=BC=8C=E6=AF=
+=94=E5=A6=822012=E5=B9=B412=E6=9C=8829=E6=97=A512=E7=82=B926=E5=88=86=E7=9A=
+=84=E6=97=A5=E5=BF=97=EF=BC=8C=E9=9C=80=E8=A6=81=E6=94=BE=E5=88=B0/data/flu=
+me_test/20121229/log-1225-=E5=AF=B9=E5=BA=94=E7=9A=84=E6=96=87=E4=BB=B6=E4=
+=B8=AD=E3=80=82</span></span></span></p>
+<p><span style=3D"color: rgb(68,68,68);"><span style=3D"color: rgb(0,0,0);"=
+><br /></span></span></p>
+<p><span style=3D"color: rgb(68,68,68);"><span style=3D"color: rgb(0,0,0);"=
+>&nbsp; =E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6&nbsp;(=E6=B3=A8=EF=BC=9Acom.te=
+st.flume.PlainJSONHandler =E8=A7=81&nbsp;<a href=3D"http://confluence.lab.t=
+clclouds.com/display/cdjszj/PlainJSONHandler" rel=3D"nofollow">PlainJSONHan=
+dler</a>)</span></span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: java; gutter: false" style=3D"font-=
+size:12px;"> a1.sources=3Dr1
+ a1.sinks=3Dk1
+ a1.channels=3Dc1
+
+ a1.sources.r1.type=3Dhttp
+ a1.sources.r1.bind=3Dlocalhost
+ a1.sources.r1.port=3D50000
+ a1.sources.r1.channels=3Dc1
+ a1.sources.r1.handler=3Dcom.test.flume.PlainJSONHandler
+ a1.sources.r1.interceptors =3D i1 i2 logformat
+
+ a1.sources.r1.interceptors.i1.preserveExisting =3D true
+ a1.sources.r1.interceptors.i1.type =3D timestamp
+ a1.sources.r1.interceptors.i2.type =3D host
+ a1.sources.r1.interceptors.i2.hostHeader =3D hostname
+ a1.sources.r1.interceptors.logformat.type =3D com.test.flume.LogFormatInte=
+rceptor$Builder
+
+ a1.sinks.k1.channel=3Dc1
+ a1.sinks.k1.type=3Dcom.test.flume.FileSink
+ #a1.sinks.k1.sink.directory=3D/data/flume_test2/
+ #a1.sinks.k1.sink.rollInterval =3D 3600
+ a1.sinks.k1.sink.batchSize=3D100
+ a1.sinks.k1.file.path =3D /data/flume_test2/%{dayStr}
+ a1.sinks.k1.file.filePrefix =3D log-%{hourStr}%{minStr}-
+ a1.sinks.k1.file.txnEventMax =3D 10000
+ a1.sinks.k1.file.maxOpenFiles =3D 5
+
+ a1.channels.c1.type=3Dmemory
+ a1.channels.c1.capacity=3D1000
+ a1.channels.c1.transactionCapacity=3D100
+
+</pre>=20
+</div>
+</div>
+<p>&nbsp; PS=EF=BC=9A=E6=8B=A6=E6=88=AA=E5=99=A8 Interceptors =E8=AE=BE=E7=
+=BD=AE=E5=9C=A8Source =E5=92=8CSource =E5=86=99=E5=85=A5=E6=95=B0=E6=8D=AE=
+=E7=9A=84Channel =E4=B9=8B=E9=97=B4=EF=BC=8CSource =E6=8E=A5=E6=94=B6=E5=88=
+=B0=E7=9A=84=E4=BA=8B=E4=BB=B6=E5=9C=A8=E5=86=99=E5=85=A5=E5=88=B0=E5=AF=B9=
+=E5=BA=94=E7=9A=84Channel=E4=B9=8B=E5=89=8D=EF=BC=8C=E6=8B=A6=E6=88=AA=E5=
+=99=A8=E9=83=BD=E5=8F=AF=E4=BB=A5=E8=BD=AC=E6=8D=A2=E6=88=96=E8=80=85=E5=88=
+=A0=E9=99=A4=E8=BF=99=E4=BA=9B=E4=BA=8B=E4=BB=B6=EF=BC=8C=E8=BF=99=E9=87=8C=
+=E4=BD=BF=E7=94=A8=E4=BA=86=E4=B8=89=E4=B8=AA&nbsp;interceptor : i1=EF=BC=
+=8C i2=EF=BC=8C logformat=EF=BC=8C</p>
+<p>&nbsp; &nbsp;(1) i1 =E6=98=AF=E4=B8=80=E4=B8=AATimestamp Interceptor=EF=
+=BC=8C=E4=BC=9A=E5=9C=A8=E5=9C=A8event =E7=9A=84 header =E9=87=8C=E6=B7=BB=
+=E5=8A=A0=E4=BA=86&nbsp;<span>&nbsp;</span>timestamp=EF=BC=8C&nbsp;preserve=
+Existing =E7=9A=84 =E9=BB=98=E8=AE=A4=E5=80=BC=E6=98=AFfalse=EF=BC=8C=E5=85=
+=B6=E4=BD=9C=E7=94=A8=E6=98=AF=E5=A6=82=E6=9E=9Ctimestamp=E5=B7=B2=E7=BB=8F=
+=E5=AD=98=E5=9C=A8=EF=BC=8C=E5=BA=94=E8=AF=A5=E8=A2=AB=E4=BF=9D=E6=8A=A4=EF=
+=BC=9B</p>
+<p>&nbsp; &nbsp;(2) i2 =E6=98=AF=E4=B8=80=E4=B8=AA&nbsp;Host Interceptor=EF=
+=BC=8C=E4=BC=9A=E5=9C=A8=E5=9C=A8event =E7=9A=84 header =E9=87=8C=E6=B7=BB=
+=E5=8A=A0=E4=BA=86&nbsp;&nbsp;host=EF=BC=8C&nbsp;hostHeader =E7=9A=84=E9=BB=
+=98=E8=AE=A4=E5=80=BC=E6=98=AFhost=EF=BC=8C=E6=98=AFheader=E7=9A=84key=E5=
+=90=8D=E7=A7=B0=EF=BC=8C&nbsp;Host Interceptor( i2 ) =E8=BF=98=E6=9C=89=E4=
+=B8=AA=E5=B1=9E=E6=80=A7=E4=B8=BA useIP &nbsp; &nbsp;=E9=BB=98=E8=AE=A4=E5=
+=80=BC=E6=98=AFtrue=EF=BC=8C=E4=BD=BF=E7=94=A8ip=EF=BC=8C=E8=80=8C=E9=9D=9E=
+hostname=EF=BC=9B</p>
+<p>&nbsp;&nbsp; (3) logformat =E4=BD=BF=E7=94=A8=E4=BA=86=E8=87=AA=E5=AE=9A=
+=E4=B9=89=E7=9A=84&nbsp;Interceptor=EF=BC=8C =E4=B8=BB=E8=A6=81=E4=B8=BAhea=
+der =E6=B7=BB=E5=8A=A0=E4=BA=86{dayStr}&nbsp;{hourStr}&nbsp;{minStr} =E4=BB=
+=A5=E4=BE=9B =E5=90=8E=E9=9D=A2=E7=9A=84sink=E4=BD=BF=E7=94=A8</p>
+<p>&nbsp;</p>
+<p>=E9=99=84 Code</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: java; gutter: false" style=3D"font-=
+size:12px;">package com.test.flume;
+import java.io.IOException;
+import java.util.Calendar;
+import java.util.List;
+import java.util.concurrent.Executors;
+import java.util.concurrent.ScheduledExecutorService;
+import org.apache.flume.Channel;
+import org.apache.flume.Context;
+import org.apache.flume.Event;
+import org.apache.flume.EventDeliveryException;
+import org.apache.flume.Transaction;
+import org.apache.flume.conf.Configurable;
+import org.apache.flume.formatter.output.BucketPath;
+import org.apache.flume.instrumentation.SinkCounter;
+import org.apache.flume.serialization.EventSerializer;
+import org.apache.flume.sink.AbstractSink;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import com.google.common.base.Preconditions;
+import com.google.common.collect.Lists;
+import com.google.common.util.concurrent.ThreadFactoryBuilder;
+public class FileSink extends AbstractSink implements Configurable {
+        private static final Logger logger =3D LoggerFactory
+                     . getLogger(FileSink .class );
+        private String path ;
+        private static final String defaultFileName =3D &quot;FlumeData&quo=
+t;;
+        private static final int defaultMaxOpenFiles =3D 50;
+        /**
+        * Default length of time we wait for blocking BucketWriter calls be=
+fore
+        * timing out the operation. Intended to prevent server hangs.
+        */
+        private long txnEventMax ;
+        private FileWriterLinkedHashMap sfWriters ;
+        private String serializerType ;
+        private Context serializerContext ;
+        private boolean needRounding =3D false;
+        private int roundUnit =3D Calendar.SECOND;
+        private int roundValue =3D 1;
+        private SinkCounter sinkCounter ;
+        private int maxOpenFiles ;
+        private ScheduledExecutorService timedRollerPool ;
+        private long rollInterval ;
+        public void configure(Context context) {
+              String directory =3D Preconditions. checkNotNull(
+                           context.getString( &quot;file.path&quot;), &quot=
+;file.path is required&quot;);
+              String fileName =3D context.getString( &quot;file.filePrefix&=
+quot;, defaultFileName);
+               this.path =3D directory + &quot;/&quot; + fileName;
+               maxOpenFiles =3D context.getInteger(&quot;file.maxOpenFiles&=
+quot; ,
+                            defaultMaxOpenFiles);
+               serializerType =3D context.getString(&quot;sink.serializer&q=
+uot; , &quot;TEXT&quot; );
+               serializerContext =3D new Context(
+                           context.getSubProperties(EventSerializer. CTX_PR=
+EFIX));
+               txnEventMax =3D context.getLong(&quot;file.txnEventMax&quot;=
+ , 1l);
+               if (sinkCounter =3D=3D null) {
+                      sinkCounter =3D new SinkCounter(getName());
+              }
+               rollInterval =3D context.getLong(&quot;file.rollInterval&quo=
+t; , 30l);
+              String rollerName =3D &quot;hdfs-&quot; + getName() + &quot;-=
+roll-timer-%d&quot; ;
+               timedRollerPool =3D Executors.newScheduledThreadPool( maxOpe=
+nFiles,
+                            new ThreadFactoryBuilder().setNameFormat(roller=
+Name).build());
+       }
+        public Status process() throws EventDeliveryException {
+              Channel channel =3D getChannel();
+              Transaction transaction =3D channel.getTransaction();
+              List&lt;BucketFileWriter&gt; writers =3D Lists. newArrayList(=
+);
+              transaction.begin();
+               try {
+                     Event event =3D null;
+                      int txnEventCount =3D 0;
+                      for (txnEventCount =3D 0; txnEventCount &lt; txnEvent=
+Max; txnEventCount++) {
+                           event =3D channel.take();
+                            if (event =3D=3D null) {
+                                   break;
+                           }
+                            // reconstruct the path name by substituting pl=
+ace holders
+                           String realPath =3D BucketPath
+                                         . escapeString(path, event.getHead=
+ers(), needRounding,
+                                                        roundUnit, roundVal=
+ue );
+                           BucketFileWriter bucketFileWriter =3D sfWriters.=
+get(realPath);
+                            // we haven't seen this file yet, so open it an=
+d cache the
+                            // handle
+                            if (bucketFileWriter =3D=3D null) {
+                                  bucketFileWriter =3D new BucketFileWriter=
+();
+                                  bucketFileWriter.open(realPath, serialize=
+rType,
+                                                 serializerContext, rollInt=
+erval , timedRollerPool,
+                                                 sfWriters);
+                                   sfWriters.put(realPath, bucketFileWriter=
+);
+                           }
+                            // track the buckets getting written in this tr=
+ansaction
+                            if (!writers.contains(bucketFileWriter)) {
+                                  writers.add(bucketFileWriter);
+                           }
+                            // Write the data to File
+                           bucketFileWriter.append(event);
+                     }
+                      if (txnEventCount =3D=3D 0) {
+                            sinkCounter.incrementBatchEmptyCount();
+                     } else if (txnEventCount =3D=3D txnEventMax) {
+                            sinkCounter.incrementBatchCompleteCount();
+                     } else {
+                            sinkCounter.incrementBatchUnderflowCount();
+                     }
+                      // flush all pending buckets before committing the tr=
+ansaction
+                      for (BucketFileWriter bucketFileWriter : writers) {
+                            if (!bucketFileWriter.isBatchComplete()) {
+                                  flush(bucketFileWriter);
+                           }
+                     }
+                     transaction.commit();
+                      if (txnEventCount &gt; 0) {
+                             sinkCounter.addToEventDrainSuccessCount(txnEve=
+ntCount);
+                     }
+                      if (event =3D=3D null) {
+                            return Status.BACKOFF ;
+                     }
+                      return Status.READY ;
+              } catch (IOException eIO) {
+                     transaction.rollback();
+                      logger.warn(&quot;File IO error&quot; , eIO);
+                      return Status.BACKOFF ;
+              } catch (Throwable th) {
+                     transaction.rollback();
+                      logger.error(&quot;process failed&quot; , th);
+                      if (th instanceof Error) {
+                            throw (Error) th;
+                     } else {
+                            throw new EventDeliveryException(th);
+                     }
+              } finally {
+                     transaction.close();
+              }
+       }
+        private void flush(BucketFileWriter bucketFileWriter) throws IOExce=
+ption {
+              bucketFileWriter.flush();
+       }
+        @Override
+        public synchronized void start() {
+               super.start();
+               this.sfWriters =3D new FileWriterLinkedHashMap(maxOpenFiles)=
+;
+               sinkCounter.start();
+       }
+}</pre>=20
+</div>
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: java; gutter: false" style=3D"font-=
+size:12px;">package com.test.flume;
+import java.io.BufferedOutputStream;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.util.concurrent.Callable;
+import java.util.concurrent.ScheduledExecutorService;
+import java.util.concurrent.TimeUnit;
+import java.util.concurrent.atomic.AtomicLong;
+import org.apache.flume.Context;
+import org.apache.flume.Event;
+import org.apache.flume.serialization.EventSerializer;
+import org.apache.flume.serialization.EventSerializerFactory;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+public class BucketFileWriter {
+     private static final Logger logger =3D LoggerFactory
+               .getLogger(BucketFileWriter.class);
+     private static final String IN_USE_EXT =3D &quot;.tmp&quot;;
+     /**
+     * This lock ensures that only one thread can open a file at a time.
+     */
+     private final AtomicLong fileExtensionCounter;
+     private OutputStream outputStream;
+     private EventSerializer serializer;
+     private String filePath;
+     /**
+     * Close the file handle and rename the temp file to the permanent file=
+name.
+     * Safe to call multiple times. Logs HDFSWriter.close() exceptions.
+     *
+     * @throws IOException
+     *             On failure to rename if temp file exists.
+     */
+     public BucketFileWriter() {
+          fileExtensionCounter =3D new AtomicLong(System.currentTimeMillis(=
+));
+     }
+     public void open(final String filePath, String serializerType,
+               Context serializerContext, final long rollInterval,
+               final ScheduledExecutorService timedRollerPool,
+               final FileWriterLinkedHashMap sfWriters) throws IOException =
+{
+          this.filePath =3D filePath;
+          File file =3D new File(filePath + fileExtensionCounter + IN_USE_E=
+XT);
+          file.getParentFile().mkdirs();
+          outputStream =3D new BufferedOutputStream(new FileOutputStream(fi=
+le));
+          logger.info(&quot;filename =3D &quot; + file.getAbsolutePath());
+          serializer =3D EventSerializerFactory.getInstance(serializerType,
+                    serializerContext, outputStream);
+          serializer.afterCreate();
+          if (rollInterval &gt; 0) {
+               Callable&lt;Void&gt; action =3D new Callable&lt;Void&gt;() {
+                    public Void call() throws Exception {
+                         logger.debug(
+                                   &quot;Rolling file ({}): Roll scheduled =
+after {} sec elapsed.&quot;,
+                                   filePath + fileExtensionCounter + IN_USE=
+_EXT,
+                                   rollInterval);
+                         if (sfWriters.containsKey(filePath)) {
+                              sfWriters.remove(filePath);
+                         }
+                         close();
+                         return null;
+                    }
+               };
+               timedRollerPool.schedule(action, rollInterval, TimeUnit.SECO=
+NDS);
+          }
+     }
+     public void append(Event event) throws IOException {
+          serializer.write(event);
+     }
+     public boolean isBatchComplete() {
+          return true;
+     }
+     public void flush() throws IOException {
+          serializer.flush();
+          outputStream.flush();
+     }
+     /**
+     * Rename bucketPath file from .tmp to permanent location.
+     */
+     private void renameBucket() {
+          File srcPath =3D new File(filePath + fileExtensionCounter + IN_US=
+E_EXT);
+          File dstPath =3D new File(filePath + fileExtensionCounter);
+          if (srcPath.exists()) {
+               srcPath.renameTo(dstPath);
+               logger.info(&quot;Renaming &quot; + srcPath + &quot; to &quo=
+t; + dstPath);
+          }
+     }
+     public synchronized void close() throws IOException, InterruptedExcept=
+ion {
+          if (outputStream !=3D null) {
+               outputStream.flush();
+               outputStream.close();
+          }
+          renameBucket();
+     }
+}</pre>=20
+</div>
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: java; gutter: false" style=3D"font-=
+size:12px;">package com.test.flume;
+import java.io.IOException;
+import java.util.LinkedHashMap;
+import java.util.Map.Entry;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+public class FileWriterLinkedHashMap extends
+          LinkedHashMap&lt;String, BucketFileWriter&gt; {
+     private static final Logger logger =3D LoggerFactory
+               .getLogger(FileWriterLinkedHashMap.class);
+     private static final long serialVersionUID =3D -7860596835613215998L;
+     private final int maxOpenFiles;
+     public FileWriterLinkedHashMap(int maxOpenFiles) {
+          super(16, 0.75f, true); // stock initial capacity/load, access
+          this.maxOpenFiles =3D maxOpenFiles;
+     }
+     @Override
+     protected boolean removeEldestEntry(Entry&lt;String, BucketFileWriter&=
+gt; eldest) {
+          if (size() &gt; maxOpenFiles) {
+               // If we have more that max open files, then close the last =
+one
+               // and
+               // return true
+               try {
+                    eldest.getValue().close();
+               } catch (IOException e) {
+                    logger.warn(eldest.getKey().toString(), e);
+               } catch (InterruptedException e) {
+                    logger.warn(eldest.getKey().toString(), e);
+                    Thread.currentThread().interrupt();
+               }
+               return true;
+          } else {
+               return false;
+          }
+     }
+}</pre>=20
+</div>
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: java; gutter: false" style=3D"font-=
+size:12px;">package com.test.flume;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import org.apache.flume.Context;
+import org.apache.flume.Event;
+import org.apache.flume.event.EventBuilder;
+import org.apache.flume.interceptor.Interceptor;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+public class LogFormatInterceptor implements Interceptor {
+    private static final Logger logger =3D LoggerFactory.getLogger(LogForma=
+tInterceptor.class);
+    private SimpleDateFormat sd =3D null;
+    private SimpleDateFormat sh =3D null;
+    private SimpleDateFormat sm =3D null;
+    public LogFormatInterceptor() {
+    }
+    public void close() {
+    }
+    public void initialize() {
+        sd =3D new SimpleDateFormat(&quot;yyyyMMdd&quot;);
+        sh =3D new SimpleDateFormat(&quot;HH&quot;);
+        sm =3D new SimpleDateFormat(&quot;mm&quot;);
+    }
+    public Event intercept(Event event) {
+        try {
+            Map&lt;String, String&gt; headers =3D event.getHeaders();
+            String body =3D new String(event.getBody());
+            Date date =3D new Date();
+            headers.put(&quot;dayStr&quot;, sd.format(date));
+            headers.put(&quot;hourStr&quot;, sh.format(date));
+            Integer m =3D Integer.parseInt(sm.format(date));
+            String min =3D &quot;&quot;;
+            if (m &gt;=3D 0 &amp;&amp; m &lt; 10) {
+                min =3D &quot;0&quot; + (m / 5) * 5;
+            } else {
+                min =3D (m / 5) * 5 + &quot;&quot;;
+            }
+            headers.put(&quot;minStr&quot;, min);
+            Event e =3D EventBuilder.withBody(body.getBytes(), headers);
+            return e;
+        } catch (Exception e) {
+            logger.error(&quot;LogFormat error!&quot;, e);
+        }
+        return null;
+    }
+    public List&lt;Event&gt; intercept(List&lt;Event&gt; events) {
+        List&lt;Event&gt; list =3D new LinkedList&lt;Event&gt;();
+        for (Event event : events) {
+            Event e =3D intercept(event);
+            if (e !=3D null) {
+                list.add(e);
+            }
+        }
+        return list;
+    }
+    /**
+     * Builder which builds new instances of the HostInterceptor.
+     */
+    public static class Builder implements Interceptor.Builder {
+        public Interceptor build() {
+            return new LogFormatInterceptor();
+        }
+        public void configure(Context context) {}
+    }
+}
+
+</pre>=20
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_10633_1256495885.1484190555138--

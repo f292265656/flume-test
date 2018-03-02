@@ -1,0 +1,528 @@
+Message-ID: <886745631.10638.1484191468338.JavaMail.root@node8>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10637_1860174551.1484191468338"
+
+------=_Part_10637_1860174551.1484191468338
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>HttpSource =E5=AD=98=E5=85=A5Hive</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>HttpSource =E5=AD=98=E5=85=A5Hive</h1>
+    <div class=3D"Section1">
+        <h3 id=3D"HttpSource=E5=AD=98=E5=85=A5Hive-HttpSource-&gt;HDFSSink"=
+><span style=3D"color: rgb(68,68,68);">HttpSource -&gt; HDFS Sink</span></h=
+3>
+<p>&nbsp; =E8=BF=99=E9=87=8C=E9=87=87=E7=94=A8=E4=BA=86=E7=9B=B4=E6=8E=A5=
+=E5=AD=98=E5=85=A5HDFS=EF=BC=8C=E5=B9=B6=E5=9C=A8=E5=9C=A8Hive =E5=BB=BA=E5=
+=A4=96=E9=83=A8=E8=A1=A8 =E6=98=A0=E5=B0=84=E5=88=B0=E5=90=8C=E4=B8=80=E5=
+=9C=B0=E5=9D=80=E7=9A=84=E6=96=B9=E6=B3=95=E9=97=B4=E6=8E=A5=E5=AD=98=E5=85=
+=A5Hive=E5=BA=93=EF=BC=8C =E5=85=B6=E4=B8=ADHDFS Sink =E7=9A=84 =E9=85=8D=
+=E7=BD=AE=E5=8F=82=E6=95=B0=E5=8F=AF=E5=8F=82=E8=80=83&nbsp;<a href=3D"http=
+://lxw1234.com/archives/2015/10/527.htm" class=3D"external-link" rel=3D"nof=
+ollow">http://lxw1234.com/archives/2015/10/527.htm</a></p>
+<p>&nbsp;&nbsp;</p>
+<p>&nbsp; =E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6 (=E6=B3=A8=EF=BC=9Acom.test.=
+flume.PlainJSONHandler =E8=A7=81&nbsp;<a href=3D"/display/cdjszj/PlainJSONH=
+andler">PlainJSONHandler</a>)</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: java; gutter: false" style=3D"font-=
+size:12px;"> a1.sources=3Dr1
+ a1.sinks=3Dk1
+ a1.channels=3Dc1
+ a1.sources.r1.type=3Dhttp
+ a1.sources.r1.bind=3Dlocalhost
+ a1.sources.r1.port=3D50000
+ a1.sources.r1.channels=3Dc1
+ a1.sources.r1.handler=3Dcom.test.flume.PlainJSONHandler
+ a1.sources.r1.interceptors =3D i1 i2
+ a1.sources.r1.interceptors.i1.preserveExisting =3D true
+ a1.sources.r1.interceptors.i1.type =3D timestamp
+ a1.sources.r1.interceptors.i2.type =3D host
+ a1.sources.r1.interceptors.i2.hostHeader =3D hostname
+
+ a1.sinks.k1.channel=3Dc1
+ a1.sinks.k1.type=3Dhdfs
+ #a1.sinks.k1.hdfs.path =3D hdfs://dev-hdfs/user/hive/warehouse/flume_test
+ a1.sinks.k1.hdfs.path=3D/user/flume/testHive/day=3D%Y%m%d/
+ a1.sinks.k1.serializer =3D com.test.flume.HiveSerializer$Builder
+ a1.sinks.k1.hdfs.writeFormat =3D Text
+ a1.sinks.k1.hdfs.fileType =3D DataStream
+
+## file roll=20
+ a1.sinks.k1.hdfs.filePrefix =3D log_%Y%m%d_%H
+ a1.sinks.k1.hdfs.useLocalTimeStamp =3D true
+ a1.sinks.k1.hdfs.minBlockReplicas=3D1
+ a1.sinks.k1.hdfs.rollInterval =3D 3600
+ a1.sinks.k1.hdfs.rollCount =3D 0
+ a1.sinks.k1.hdfs.rollSize =3D 0
+ a1.sinks.k1.hdfs.batchSize =3D 100
+
+ a1.channels.c1.type=3Dmemory
+ a1.channels.c1.capacity=3D1000
+ a1.channels.c1.transactionCapacity=3D100</pre>=20
+</div>
+</div>
+<p>&nbsp; PS=EF=BC=9A</p>
+<p>&nbsp; (1) =E9=BB=98=E8=AE=A4=E7=9A=84&nbsp;serializer =E5=8F=AA=E4=BC=
+=9A=E5=BE=80=E5=A4=96=E5=86=99body=E9=87=8C=E7=9A=84=E6=95=B0=E6=8D=AE=EF=
+=BC=8C=E6=83=B3=E8=A6=81 =E5=8A=A0=E5=85=A5=E5=85=B6=E4=BB=96=E4=BF=A1=E6=
+=81=AF=EF=BC=88=E5=A6=82timestamp =E5=92=8C ip =EF=BC=89=E9=9C=80=E8=87=AA=
+=E5=AE=9A=E4=B9=89&nbsp;serializer=EF=BC=8C=E5=AE=9E=E7=8E=B0&nbsp;EventSer=
+ializer =E5=B9=B6=E9=87=8D=E5=86=99 =E5=85=B6&nbsp;write =E6=96=B9=E6=B3=95=
+=E5=8D=B3=E5=8F=AFxiang</p>
+<p>&nbsp; (2) =E6=96=87=E4=BB=B6=E6=BB=9A=E5=8A=A8=E6=97=B6=E9=9C=80=E8=A6=
+=81=E5=AF=B9=E6=96=87=E4=BB=B6=E5=90=8D=E8=87=AA=E5=AE=9A=E4=B9=89=EF=BC=8C=
+=E5=90=A6=E5=88=99=E4=B8=80=E6=AC=A1=E8=AF=B7=E6=B1=82=E4=BC=9A=E4=BA=A7=E7=
+=94=9F=E4=B8=80=E4=B8=AA=E6=96=87=E4=BB=B6=EF=BC=8C=E8=BF=99=E9=87=8C=E7=9A=
+=84=E6=96=87=E4=BB=B6=E6=BB=9A=E5=8A=A8=E8=AE=BE=E7=BD=AE=E4=B8=BA60=E7=A7=
+=92=E6=96=B0=E5=A2=9E=E4=B8=80=E4=B8=AA=E6=96=87=E4=BB=B6=EF=BC=8C=E4=B9=9F=
+=E5=8F=AF=E5=9F=BA=E4=BA=8E=E5=85=B6=E4=BB=96=E9=85=8D=E7=BD=AE(=E5=A6=82ro=
+llcount - event =E4=B8=AA=E6=95=B0 =E5=92=8C rollsize - =E6=96=87=E4=BB=B6=
+=E5=A4=A7=E5=B0=8F)=E8=BF=9B=E8=A1=8C=E6=BB=9A=E5=8A=A8</p>
+<p>&nbsp; (3) =E5=A6=82=E6=9E=9C=E6=83=B3=E5=86=99=E5=85=A5Hive =E5=BA=93=
+=EF=BC=8C=E5=90=91=E5=A4=96=E5=86=99=E5=87=BA=E6=97=B6=EF=BC=8C =E9=9C=80=
+=E4=BF=9D=E8=AF=81=E5=86=99=E5=87=BA=E9=A1=BA=E5=BA=8F=E5=92=8CHive =E8=A1=
+=A8=E7=9A=84=E5=AD=97=E6=AE=B5=E9=A1=BA=E5=BA=8F=E4=B8=80=E8=87=B4</p>
+<p>&nbsp; (4) =E7=9B=AE=E5=BD=95=E9=87=87=E7=94=A8 day=3Dxxx =E6=98=AF=E4=
+=B8=BA=E4=BA=86=E5=8C=B9=E9=85=8D Hive =E8=A1=A8=E7=9A=84=E5=88=86=E5=8C=BA=
+</p>
+<p>&nbsp;</p>
+<p>HiveSerializer</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: java; gutter: false" style=3D"font-=
+size:12px;">package com.test.flume;
+import java.io.IOException;
+import java.io.OutputStream;
+import org.apache.flume.Context;
+import org.apache.flume.Event;
+import org.apache.flume.interceptor.TimestampInterceptor;
+import org.apache.flume.serialization.EventSerializer;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import com.alibaba.fastjson.JSON;
+import com.test.flume.vo.AppsFlyerLogVo;
+public class HiveSerializer implements EventSerializer{
+   =20
+    private final static Logger logger =3D LoggerFactory.getLogger(HiveSeri=
+alizer.class);
+    public static final String FORMAT =3D &quot;format&quot;;
+    public static final String REGEX =3D &quot;regex&quot;;
+    public static final String REGEX_ORDER =3D &quot;regexorder&quot;;
+   =20
+//    private final String DEFAULT_FORMAT =3D &quot;CSV&quot;;
+   =20
+//    private final String format;
+    private final OutputStream out;
+   =20
+    private HiveSerializer(OutputStream out, Context ctx) {
+//        this.format =3D ctx.getString(FORMAT, DEFAULT_FORMAT);
+//        if (!format.equals(DEFAULT_FORMAT)){
+//            logger.warn(&quot;Unsupported output format&quot; + format + =
+&quot;, using default instead&quot;);
+//        }
+        this.out =3D out;
+    }
+    public void write(Event event) throws IOException {
+     // first write out the timestamp
+        String timestamp =3D event.getHeaders().get(TimestampInterceptor.Co=
+nstants.TIMESTAMP);
+        if (timestamp =3D=3D null || timestamp.isEmpty()){
+            long now =3D System.currentTimeMillis();
+            timestamp =3D Long.toString(now);
+        }
+        String bodyStr =3D new String(event.getBody());
+        AppsFlyerLogVo vo =3D JSON.parseObject(bodyStr, AppsFlyerLogVo.clas=
+s);
+        logger.info(&quot;=3D=3D=3D=3D=3D=3D=3D=3D Serializer =3D=3D=3D=3D=
+=3D=3D=3D=3D=3D &quot; + vo.toString() + &quot; =3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D &quot;);
+        writeLogVo(vo);
+        out.write('\n');
+       =20
+    }
+
+    private void writeLogVo(AppsFlyerLogVo vo) {
+        try {
+            // =E6=A0=B9=E6=8D=AE hive =E8=A1=A8=E5=AD=97=E6=AE=B5=E9=A1=BA=
+=E5=BA=8F
+            writeFiled(vo.getDeviceModel());
+            writeFiled(vo.getDownloadTimeSelectedTimezone());
+            writeFiled(vo.getDownloadTime());
+            writeFiled(vo.getOperator());
+            writeFiled(vo.getIp());
+            writeFiled(vo.getAppName());
+            writeFiled(vo.getCity());
+            writeFiled(vo.getCustomerUserId());
+            writeFiled(vo.getInstallTimeSelectedTimezone());
+            writeFiled(vo.getEventName());
+            writeFiled(vo.getEventTimeSelectedTimezone());
+            writeFiled(vo.getIsRetargeting());
+            writeFiled(vo.getInstallTime());
+            writeFiled(vo.getEventTime());
+            writeFiled(vo.getPlatform());
+            writeFiled(vo.getSdkVersion());
+            writeFiled(vo.getAppsflyerDeviceId());
+            writeFiled(vo.getSelectedCurrency());
+            writeFiled(vo.getWifi());
+            writeFiled(vo.getAdvertisingId());
+            writeFiled(vo.getMediaSource());
+            writeFiled(vo.getCountryCode());
+            writeFiled(vo.getBundleId());
+            writeFiled(vo.getCarrier());
+            writeFiled(vo.getLanguage());
+            writeFiled(vo.getAppId());
+            writeFiled(vo.getAppVersion());
+            writeFiled(vo.getAttributionType());
+            writeFiled(vo.getOsVersion());
+            writeFiled(vo.getDeviceBrand());
+            writeFiled(vo.getEventType());
+           =20
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+   =20
+    private void writeFiled(String filed){
+        try {
+            if (filed !=3D null) {
+                out.write(filed.getBytes());
+                out.write('\u0002');
+            }else {
+                out.write('\u0002');
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    public void afterCreate() throws IOException {
+        // TODO Auto-generated method stub
+       =20
+    }
+
+    public void afterReopen() throws IOException {
+        // TODO Auto-generated method stub
+       =20
+    }
+
+    public void flush() throws IOException {
+        // TODO Auto-generated method stub
+       =20
+    }
+
+    public void beforeClose() throws IOException {
+        // TODO Auto-generated method stub
+       =20
+    }
+
+    public boolean supportsReopen() {
+        // TODO Auto-generated method stub
+        return false;
+    }
+    public EventSerializer build(Context context, OutputStream out) {
+        // TODO Auto-generated method stub
+        return null;
+    }
+   =20
+    public static class Builder implements EventSerializer.Builder {
+        public EventSerializer build(Context context, OutputStream out) {
+            HiveSerializer s =3D new HiveSerializer(out, context);
+            return s;
+        }
+    }
+}
+
+</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<p>Hive =E5=BB=BA=E8=A1=A8</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: java; gutter: false" style=3D"font-=
+size:12px;">DROP TABLE flume_test2;
+CREATE EXTERNAL TABLE IF NOT EXISTS flume_test2(
+device_model string,=20
+download_time_selected_timezone string,=20
+download_time string,
+operator string,
+ip string,
+app_name string,
+city string,
+customer_user_id string,
+install_time_selected_timezone string,
+event_name string,
+event_time_selected_timezone string,
+is_retargeting string,
+install_time string,
+event_time string,
+platform string,
+sdk_version string,
+appsflyer_device_id string,
+selected_currency string,
+wifi string,
+advertising_id string,
+media_source string,
+country_code string,
+bundle_id string,
+carrier string,
+language string,
+app_id string,
+app_version string,
+attribution_type string,
+os_version string,
+device_brand string,
+event_type string
+)=20
+PARTITIONED BY (day int)=20
+ROW FORMAT DELIMITED=20
+FIELDS TERMINATED BY '\u0002'=20
+STORED AS TEXTFILE
+LOCATION '/user/flume/testHive/'; </pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<p><strong>Hive =E5=BB=BA=E8=A1=A8=E4=B9=8B=E5=90=8E=E9=9C=80=E8=A6=81 =E5=
+=A2=9E=E5=8A=A0=E7=9B=B8=E5=BA=94=E7=9A=84=E5=88=86=E5=8C=BA</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: java; gutter: false" style=3D"font-=
+size:12px;">ALTER TABLE flume_test2 ADD PARTITION (day =3D 20161122);</pre>=
+=20
+</div>
+</div>
+<p>&nbsp;&nbsp;<strong>=E8=BF=99=E4=B8=AA=E6=93=8D=E4=BD=9C=E9=9C=80=E8=A6=
+=81<span style=3D"color: rgb(85,85,85);">=E8=A2=AB=E5=AE=9A=E6=97=B6=E4=BB=
+=BB=E5=8A=A1=E6=88=96=E5=85=B6=E4=BB=96=E7=B1=BB=E4=BC=BC=E7=9A=84=E4=B8=9C=
+=E8=A5=BF=E6=89=A7=E8=A1=8C</span></strong></p>
+<p><strong><span style=3D"color: rgb(85,85,85);"><br /></span></strong></p>
+<p><strong><span style=3D"color: rgb(85,85,85);">&nbsp;&nbsp;</span></stron=
+g><span style=3D"color: rgb(85,85,85);">=E6=96=87=E7=AB=A0 =E5=8F=82=E8=80=
+=83=E4=BA=86&nbsp;</span><span style=3D"color: rgb(85,85,85);"><a href=3D"h=
+ttp://www.huyanping.cn/flumehive%E5%A4%84%E7%90%86%E6%97%A5%E5%BF%97/" clas=
+s=3D"external-link" rel=3D"nofollow">http://www.huyanping.cn/flumehive%E5%A=
+4%84%E7%90%86%E6%97%A5%E5%BF%97/</a></span></p>
+<h3 id=3D"HttpSource=E5=AD=98=E5=85=A5Hive-=E5=90=8E=E8=AF=9D">=E5=90=8E=E8=
+=AF=9D</h3>
+<p>&nbsp; =E5=AD=98=E5=85=A5Hive=E9=99=A4=E4=BA=86=E7=9B=B4=E6=8E=A5=E5=BB=
+=BA=E5=A4=96=E9=83=A8=E8=A1=A8=E7=9A=84=E6=96=B9=E5=BC=8F =E4=B9=9F=E5=8F=
+=AF=E7=9B=B4=E6=8E=A5=E6=9C=89=E6=A0=BC=E5=BC=8F=E7=9A=84=E5=86=99=E5=85=A5=
+HDFS =EF=BC=8C=E7=84=B6=E5=90=8E=E4=BD=BF=E7=94=A8load data =E7=9A=84=E6=96=
+=B9=E5=BC=8F =E5=86=99=E5=85=A5Hive</p>
+<p>&nbsp;&nbsp;</p>
+<p>&nbsp; =E8=8B=A5=E6=83=B3=E4=BD=BF=E7=94=A8 Hive Sink =E7=9A=84=E6=96=B9=
+=E5=BC=8F =E5=86=99=E5=85=A5Hive=EF=BC=8C=E5=8F=AF=E5=8F=82=E8=80=83</p>
+<p>&nbsp;&nbsp;<a href=3D"http://stackoverflow.com/questions/30908641/save-=
+flume-output-to-hive-table-with-hive-sink" class=3D"external-link" rel=3D"n=
+ofollow">http://stackoverflow.com/questions/30908641/save-flume-output-to-h=
+ive-table-with-hive-sink</a></p>
+<p>&nbsp;&nbsp;<a href=3D"http://henning.kropponline.de/2015/05/19/hivesink=
+-for-flume/" class=3D"external-link" rel=3D"nofollow">http://henning.kroppo=
+nline.de/2015/05/19/hivesink-for-flume/</a></p>
+<p>&nbsp; =E5=8F=A6=E5=AE=98=E7=BD=91=E7=9A=84=E4=BB=8B=E7=BB=8D=E4=B9=9F=
+=E5=8D=81=E5=88=86=E8=AF=A6=E7=BB=86=EF=BC=8C=E5=8F=AF=E4=BB=A5=E5=8F=82=E8=
+=80=83&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_10637_1860174551.1484191468338--
